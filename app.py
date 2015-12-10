@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Hello World 2!!"
+    return "Cisco Intercloud Services is real !!"
 
 
 if __name__ == "__main__":
